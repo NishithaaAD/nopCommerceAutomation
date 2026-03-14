@@ -59,3 +59,7 @@
 2026-03-13 17:42:32,325 [main] INFO nopeCommercerV001_Cucumberproject4 - *******************Launching Browser********************
 2026-03-13 17:42:32,341 [main] INFO nopeCommercerV001_Cucumberproject4 - *******************Opening URL********************
 2026-03-13 17:42:32,692 [main] INFO nopeCommercerV001_Cucumberproject4 - *******************Providing login details********************
+2026-03-14 14:42:48,780 [main] INFO nopeCommercerV001_Cucumberproject4 - *******************Launching Browser********************
+2026-03-14 14:42:48,830 [main] INFO nopeCommercerV001_Cucumberproject4 - *******************Opening URL********************
+2026-03-14 14:42:49,707 [main] INFO nopeCommercerV001_Cucumberproject4 - *******************Providing login details********************
+2026-03-14 14:42:50,084 [main] INFO nopeCommercerV001_Cucumberproject4 - *******************started login********************
