@@ -1,0 +1,61 @@
+2026-03-13 16:40:05,572 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Launching Browser********************
+2026-03-13 16:40:05,679 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Opening URL********************
+2026-03-13 16:40:06,181 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Providing login details********************
+2026-03-13 16:40:06,805 - nopeCommercerV001_Cucumberproject4 - INFO - *******************started login********************
+2026-03-13 16:45:53,456 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Launching Browser********************
+2026-03-13 16:45:53,526 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Opening URL********************
+2026-03-13 16:45:53,965 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Providing login details********************
+2026-03-13 16:45:54,330 - nopeCommercerV001_Cucumberproject4 - INFO - *******************started login********************
+2026-03-13 16:45:57,221 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Click on Logout********************
+2026-03-13 17:05:30,640 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Launching Browser********************
+2026-03-13 17:05:30,730 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Opening URL********************
+2026-03-13 17:05:31,258 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Providing login details********************
+2026-03-13 17:05:31,710 - nopeCommercerV001_Cucumberproject4 - INFO - *******************started login********************
+2026-03-13 17:05:34,084 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Login failed********************
+2026-03-13 17:05:34,868 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Click on Logout********************
+2026-03-13 17:05:39,367 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Page Title Is********************
+2026-03-13 17:09:45,225 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Launching Browser********************
+2026-03-13 17:09:45,294 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Opening URL********************
+2026-03-13 17:09:45,689 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Providing login details********************
+2026-03-13 17:09:45,980 - nopeCommercerV001_Cucumberproject4 - INFO - *******************started login********************
+2026-03-13 17:09:49,174 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Login Passed********************
+2026-03-13 17:09:49,812 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Click on Logout********************
+2026-03-13 17:09:54,234 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Page Title Is********************
+2026-03-13 17:12:59,517 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Launching Browser********************
+2026-03-13 17:12:59,574 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Opening URL********************
+2026-03-13 17:12:59,987 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Providing login details********************
+2026-03-13 17:13:00,695 - nopeCommercerV001_Cucumberproject4 - INFO - *******************started login********************
+2026-03-13 17:16:24,545 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Launching Browser********************
+2026-03-13 17:16:24,563 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Opening URL********************
+2026-03-13 17:16:24,995 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Providing login details********************
+2026-03-13 17:16:25,432 - nopeCommercerV001_Cucumberproject4 - INFO - *******************started login********************
+2026-03-13 17:16:27,953 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Login Passed********************
+2026-03-13 17:16:28,552 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Click on Logout********************
+2026-03-13 17:16:33,192 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Page Title Is********************
+2026-03-13 17:30:12,442 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Launching Browser********************
+2026-03-13 17:30:12,464 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Opening URL********************
+2026-03-13 17:30:12,883 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Providing login details********************
+2026-03-13 17:30:13,282 - nopeCommercerV001_Cucumberproject4 - INFO - *******************started login********************
+2026-03-13 17:30:15,135 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Login Passed********************
+2026-03-13 17:30:16,273 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Click on Logout********************
+2026-03-13 17:30:20,847 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Page Title Is********************
+2026-03-13 17:34:37,606 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Launching Browser********************
+2026-03-13 17:34:37,639 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Opening URL********************
+2026-03-13 17:34:38,755 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Providing login details********************
+2026-03-13 17:34:39,063 - nopeCommercerV001_Cucumberproject4 - INFO - *******************started login********************
+2026-03-13 17:34:40,823 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Login Passed********************
+2026-03-13 17:34:41,444 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Click on Logout********************
+2026-03-13 17:34:46,022 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Page Title Is********************
+2026-03-13 17:36:33,982 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Launching Browser********************
+2026-03-13 17:36:33,994 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Opening URL********************
+2026-03-13 17:36:34,574 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Providing login details********************
+2026-03-13 17:36:34,867 - nopeCommercerV001_Cucumberproject4 - INFO - *******************started login********************
+2026-03-13 17:36:37,279 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Login Passed********************
+2026-03-13 17:36:37,904 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Click on Logout********************
+2026-03-13 17:36:42,593 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Page Title Is********************
+2026-03-13 17:41:27,754 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Launching Browser********************
+2026-03-13 17:41:28,003 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Opening URL********************
+2026-03-13 17:41:28,293 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Providing login details********************
+2026-03-13 17:42:32,325 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Launching Browser********************
+2026-03-13 17:42:32,341 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Opening URL********************
+2026-03-13 17:42:32,692 - nopeCommercerV001_Cucumberproject4 - INFO - *******************Providing login details********************
