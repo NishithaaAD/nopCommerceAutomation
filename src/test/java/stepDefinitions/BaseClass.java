@@ -27,15 +27,21 @@ public class BaseClass {
     public void setUp()
     {
     	ChromeOptions options = new ChromeOptions();
-    	options.addArguments("--disable-blink-features=AutomationControlled");
-    	options.addArguments("--start-maximized");
-    	options.addArguments("--disable-infobar");
-    	options.addArguments("--disable-notifications");
-    	options.addArguments("user-data-dir=C:\\AutomationProfile");
-    	options.addArguments("--profile-directory=Default");
 
-    	WebDriver driver = new ChromeDriver(options);
-    	driver.get("https://admin-demo.nopcommerce.com/login");
+        options.addArguments("--start-maximized");
+        options.addArguments("--disable-blink-features=AutomationControlled");
+        options.addArguments("--disable-infobars");
+        options.addArguments("--disable-extensions");
+
+        options.setExperimentalOption("excludeSwitches",
+                Arrays.asList("enable-automation"));
+        options.setExperimentalOption("useAutomationExtension", false);
+
+        options.addArguments("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36");
+
+        WebDriver driver = new ChromeDriver(options);
+
+        driver.get("https://admin-demo.nopcommerce.com/login");
     }
     
     
